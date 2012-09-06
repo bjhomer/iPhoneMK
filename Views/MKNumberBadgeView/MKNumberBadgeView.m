@@ -253,10 +253,6 @@
 	{
 		badgeWidth += badgeWidthAdjustment;
 	}
-	else
-	{
-		badgeWidthAdjustment = 0;
-	}
 	
 	
 	CGMutablePathRef badgePath = CGPathCreateMutable();
